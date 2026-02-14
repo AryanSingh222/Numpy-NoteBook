@@ -1,1 +1,2 @@
-pip install numpy 
+Install numpy using 
+pip install numpy
